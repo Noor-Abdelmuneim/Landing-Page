@@ -1,6 +1,6 @@
 const StayProductive = () => {
   return (
-    <section>
+    <section className="pb-[150px]">
       <div className="container grid grid-cols-1 md:grid-cols-2 gap-[30px] place-items-center">
         <div>
           <img
